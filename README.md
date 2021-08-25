@@ -2,3 +2,4 @@
 - 👀 I’m interested in functional programming, smart contracts and software architecture
 - 🌱 Currently learning JSON:API and how to program decoupled API clients
 - 📫 You can DM me on Discord: Greentail#5632 
+- 💬 I speak English, also a bit of German and Interslavic
